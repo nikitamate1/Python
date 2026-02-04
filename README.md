@@ -2,9 +2,9 @@
 
 This repository is for revision purposes. I'll revise one topic each day.
 
-## Contents
+## Content
 
-### 1. **Lists**
+### 1. **List**
 Lists are ordered, mutable collections that can hold multiple items of different data types.
 
 **Key Features:**
@@ -14,7 +14,7 @@ Lists are ordered, mutable collections that can hold multiple items of different
 - **Iterable**: Can iterate through each item
 - **Allow Duplicates**: Can contain duplicate values
 
-### 2. **Strings**
+### 2. **String**
 Strings are immutable sequences of characters enclosed in quotes (single, double, or triple).
 
 **Key Features:**
@@ -23,7 +23,7 @@ Strings are immutable sequences of characters enclosed in quotes (single, double
 - **Iterable**: Can iterate through each character
 - **Case Sensitive**: 'A' and 'a' are different
 
-### 3. **Tuples**
+### 3. **Tuple**
 Tuples are immutable sequences of elements enclosed in parentheses.
 
 **Key Features:**
@@ -35,6 +35,6 @@ Tuples are immutable sequences of elements enclosed in parentheses.
 
 ## Resources
 
-- [Lists.ipynb](Data%20Structures/Lists.ipynb) - Detailed list operations and examples
+- [List.ipynb](Data%20Structures/List.ipynb) - Detailed list operations and examples
 - [String.ipynb](Data%20Structures/String.ipynb) - Detailed string operations and examples
 - [Tuple.ipynb](Data%20Structures/Tuple.ipynb) - Detailed Tuple operations and examples
