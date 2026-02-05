@@ -33,8 +33,22 @@ Tuples are immutable sequences of elements enclosed in parentheses.
 - **Iterable**: Can iterate through each element
 - **Allows Duplicates**: Same value can appear multiple times
 
+### 4. **Dictionary**
+Dictionaries are mutable collections of key–value pairs enclosed in curly braces {}.
+
+**Key Features:**
+
+- **Unordered (Insertion-ordered)**: Maintains insertion order (Python 3.7+)
+- **Mutable**: Values can be changed after creation
+- **Indexed by Keys**: Access values using keys, not index positions
+- **Key–Value Pairs**: Data is stored as key: value
+- **Iterable**: Can iterate through keys, values, or items
+- **Unique Keys**: Keys must be unique; values can be duplicated
+
 ## Resources
 
 - [List.ipynb](Data%20Structures/List.ipynb) - Detailed list operations and examples
 - [String.ipynb](Data%20Structures/String.ipynb) - Detailed string operations and examples
 - [Tuple.ipynb](Data%20Structures/Tuple.ipynb) - Detailed Tuple operations and examples
+- [Dictionary.ipynb](Data%20Structures/Dictionary.ipynb) - Detailed Dictionary operations and examples
+
